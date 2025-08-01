@@ -14,7 +14,8 @@ import java.util.*;
    1) Within Same Class
    2) child class to parent class
    Local Chaining : if constrctor calls another constructor within same class we can use this()
-   Super() : if constrctor calls another constructor which is present in different class then we use super()                         
+   Super() : if constrctor calls another constructor which is present in different class then we use super()       
+   Can we make Constructors as Private ? Yes we can 
  * 
  */
 class customer{  // class name must same of the customer name
