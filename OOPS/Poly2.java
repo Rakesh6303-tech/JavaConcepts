@@ -1,3 +1,10 @@
+//🔧 Real-Time Example (Bank Payment Example)
+//Imagine you’re developing a payment system for an e-commerce website.
+//You have multiple payment types:
+//Credit Card, Debit Card, UPI
+//All these share a common action: makePayment(),
+//but each one processes it differently.
+
 // Parent class - defines a general payment behavior
 class Payment {
     // Method that can be overridden by child classes
