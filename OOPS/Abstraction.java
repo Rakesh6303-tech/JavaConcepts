@@ -16,6 +16,13 @@ package oops;
  * Difference between Abstraction and Interfaces
  *  Abstraction can have constructors and interface dont have constructors
  *  Abstraction have both abstract methods and concerte methods, will Interfaces have only Pure Abstract methods
+
+<-----------------Example----------------------->
+ 📱 3. Mobile Phone
+When you use a smartphone:
+You tap icons to make a call or send a message.
+You don’t see how the phone converts your touch into signals, connects to networks, or processes data.
+✅ Abstraction: The user interface hides the complex software and hardware logic.
  * 
  */
 abstract class animal{
